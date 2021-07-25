@@ -1,0 +1,15 @@
+body {
+    background-image: url(./assets/totalblack.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.font {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-family: 5px;
+    color: aliceblue;
+
+    
+}
